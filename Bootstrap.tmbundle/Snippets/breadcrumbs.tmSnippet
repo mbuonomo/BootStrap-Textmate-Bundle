@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="breadcrumb"&gt;
+  &lt;li&gt;
+    &lt;a href="${1:href}"&gt;${2:label}&lt;/a&gt; &lt;span class="divider"&gt;/&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class="active"&gt;${3:current}&lt;/li&gt;
+&lt;/ul&gt;</string>
+	<key>name</key>
+	<string>breadcrumbs</string>
+	<key>tabTrigger</key>
+	<string>boot_bread</string>
+	<key>uuid</key>
+	<string>2372EF24-997A-4644-8393-BB0BB6F46153</string>
+</dict>
+</plist>

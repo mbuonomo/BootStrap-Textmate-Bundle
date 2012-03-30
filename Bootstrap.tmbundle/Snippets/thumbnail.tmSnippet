@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul class="thumbnails"&gt;
+  &lt;li class="span3"&gt;
+    &lt;a href="#" class="thumbnail"&gt;
+      &lt;img src="" alt=""&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</string>
+	<key>name</key>
+	<string>thumbnail</string>
+	<key>tabTrigger</key>
+	<string>boot_thumb</string>
+	<key>uuid</key>
+	<string>3C38FE72-4DB8-4D5A-A59A-13A84847CD87</string>
+</dict>
+</plist>

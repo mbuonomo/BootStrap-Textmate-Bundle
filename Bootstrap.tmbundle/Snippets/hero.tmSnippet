@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="hero-unit"&gt;
+  &lt;h1&gt;Heading&lt;/h1&gt;
+  &lt;p&gt;Tagline&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a class="btn btn-primary btn-large"&gt;
+      Learn more
+    &lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>hero</string>
+	<key>tabTrigger</key>
+	<string>boot_hero</string>
+	<key>uuid</key>
+	<string>9F863E7F-D8C9-4683-B9FD-BD8ACAA17AC4</string>
+</dict>
+</plist>
